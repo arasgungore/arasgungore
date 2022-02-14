@@ -1,16 +1,16 @@
-### Hi there 👋
+## Welcome to my GitHub page 👋
 
-<!--
-**arasgungore/arasgungore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Aras Güngöre. Learn more about me and my projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Links
+
+[![Gmail Badge](https://img.shields.io/badge/-arasgungore09-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arasgungore09@gmail.com)](mailto:arasgungore09@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-arasgungore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arasgungore/)](https://www.linkedin.com/in/arasgungore/)
+
+
+
+### GitHub Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=arasgungore&show_icons=true&count_private=true)](https://github.com/arasgungore)
