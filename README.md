@@ -1,6 +1,8 @@
-## Welcome to my GitHub page 👋
+## Welcome to my GitHub page
 
-Hello, my name is Aras Güngöre. I am a junior Electrical-Electronics Engineering major and Computer Engineering minor student at Boğaziçi University. Check out my GitHub page to learn more about me and my projects.
+<h1 align="center">Hello 👋, I'm Aras Güngöre</h1>
+<h2 align="center">I am a junior Electrical-Electronics Engineering major and Computer Engineering minor student at Boğaziçi University.</h2>
+<h3 align="center">Check out my GitHub page to learn more about me and my projects.</h3>
 
 
 
@@ -12,6 +14,19 @@ Hello, my name is Aras Güngöre. I am a junior Electrical-Electronics Engineeri
 
 
 
-### GitHub Stats
+### Languages and Tools
 
-[![](https://github-readme-stats.vercel.app/api?username=arasgungore&show_icons=true&count_private=true)](https://github.com/arasgungore)
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+
+
+
+### Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arasgungore&show_icons=true&locale=en&layout=compact" alt="arasgungore" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arasgungore&show_icons=true&locale=en" alt="arasgungore" /></p>
