@@ -1,6 +1,6 @@
-## Welcome to my GitHub page
+## Welcome to my GitHub page 👋
 
-Hello 👋, my name is Aras Güngöre. I am a junior Electrical-Electronics Engineering major and Computer Engineering minor student at Boğaziçi University. Check out my GitHub page to learn more about me and my projects.
+Hello, my name is Aras Güngöre. I am a junior Electrical-Electronics Engineering major and Computer Engineering minor student at Boğaziçi University. Check out my GitHub page to learn more about me and my projects.
 
 
 
