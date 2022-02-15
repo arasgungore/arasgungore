@@ -29,4 +29,4 @@
 ### Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arasgungore&show_icons=true&locale=en&layout=compact" alt="arasgungore" />
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arasgungore&show_icons=true&locale=en" alt="arasgungore" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=arasgungore&show_icons=true&locale=en" alt="arasgungore" /></p>
