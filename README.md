@@ -30,7 +30,7 @@ Hello, my name is Aras Güngöre. I am a junior Electrical-Electronics Engineeri
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arasgungore&show_icons=true&locale=en&layout=compact" alt="arasgungore" />
 </p>
 
-<p style="margin-bottom:3cm;">
+<p>
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arasgungore&show_icons=true&locale=en" alt="arasgungore" />
 </p>
