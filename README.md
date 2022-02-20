@@ -1,10 +1,10 @@
-## Welcome to my GitHub page 👋
+# Welcome to my GitHub page 👋
 
 Hello, my name is Aras Güngöre. I am a junior Electrical-Electronics Engineering major and Computer Engineering minor student at Boğaziçi University. Check out my GitHub page to learn more about me and my projects.
 
 
 
-### Contact Info
+## Contact Info
 
 [![Gmail](https://img.shields.io/badge/-arasgungore09-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arasgungore09@gmail.com)](mailto:arasgungore09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-arasgungore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arasgungore)](https://www.linkedin.com/in/arasgungore)
@@ -12,7 +12,7 @@ Hello, my name is Aras Güngöre. I am a junior Electrical-Electronics Engineeri
 
 
 
-### Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -26,7 +26,7 @@ Hello, my name is Aras Güngöre. I am a junior Electrical-Electronics Engineeri
 
 
 
-### GitHub Stats
+## GitHub Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arasgungore&show_icons=true&locale=en&layout=compact" alt="arasgungore" />
