@@ -8,7 +8,7 @@ Hello, my name is Aras Güngöre. I am a junior Electrical-Electronics Engineeri
 
 [![Gmail](https://img.shields.io/badge/-arasgungore09-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arasgungore09@gmail.com)](mailto:arasgungore09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-arasgungore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arasgungore)](https://www.linkedin.com/in/arasgungore)
-[![HackerRank](https://img.shields.io/badge/-arasgungore-00FF00?style=flat&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/arasgungore)](https://www.hackerrank.com/arasgungore)
+[![HackerRank](https://img.shields.io/badge/-arasgungore-00ea64?style=flat&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/arasgungore)](https://www.hackerrank.com/arasgungore)
 
 
 
