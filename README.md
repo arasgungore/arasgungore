@@ -15,7 +15,7 @@ Hello, my name is Aras Güngöre. I am a junior Electrical-Electronics Engineeri
 ## Languages and Tools
 
 <p align="left">
-  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg/120px-The_C_Programming_Language_logo.svg.png" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://www.pngkit.com/png/detail/101-1010012_c-programming-icon-c-programming-language-logo.png" alt="c" width="40" height="40"/> </a>
   <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
