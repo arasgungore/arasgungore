@@ -1,4 +1,4 @@
-# Welcome to my GitHub page <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Welcome to my GitHub page <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="waving_hand" width="30px" />
 
 Hello, my name is Aras Güngöre. I am a junior Electrical-Electronics Engineering major and Computer Engineering minor student at Boğaziçi University. Check out my GitHub page to learn more about me and my projects.
 
