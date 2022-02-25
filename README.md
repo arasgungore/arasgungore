@@ -28,9 +28,11 @@ Hello, my name is Aras Güngöre. I am a junior Electrical-Electronics Engineeri
 
 ## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arasgungore&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arasgungore&show_icons=true&locale=en&layout=compact" alt="arasgungore" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=arasgungore&show_icons=true&locale=en" alt="arasgungore" />
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arasgungore&hide_border=true)](https://git.io/streak-stats)
