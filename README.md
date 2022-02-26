@@ -25,8 +25,9 @@ Hello, my name is Aras Güngöre. I am a junior Electrical-Electronics Engineeri
 </p>
 
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
+  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
+  <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/simulink.svg" alt="git" width="40" height="40" /> </a>
 </p>
 
 
