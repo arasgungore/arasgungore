@@ -1,6 +1,6 @@
 # Welcome to my GitHub page <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="waving_hand" width="30px" />
 
-Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Engineering major and Computer Engineering minor student at Boğaziçi University. Check out my GitHub page to learn more about me and my projects.
+Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Engineering major and Computer Engineering minor student at Boğaziçi University. Check out [my portfolio](https://arasgungore.github.io/) and [my GitHub page](https://github.com/arasgungore?tab=repositories) to learn more about me and my projects.
 
 
 
