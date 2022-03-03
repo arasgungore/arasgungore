@@ -4,7 +4,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 
 
-## 🔗 Contact Info
+## 📇 Contact Info
 
 [![Gmail](https://img.shields.io/badge/-arasgungore09-f14336?style=flat&logo=Gmail&logoColor=white&link=mailto:arasgungore09@gmail.com)](mailto:arasgungore09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-arasgungore-007bb6?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arasgungore)](https://www.linkedin.com/in/arasgungore)
