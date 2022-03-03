@@ -45,7 +45,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 [![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### Top Languages
+### 🔝 Top Languages
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arasgungore&hide_border=true&show_icons=true&locale=en&layout=compact" alt="arasgungore" />
