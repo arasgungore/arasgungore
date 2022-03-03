@@ -12,7 +12,9 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 
 
-## ⚙ Languages and Tools
+## ⚙ Skills
+
+### Programming
 
 <p align="left">
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a> &nbsp; &nbsp;
@@ -24,6 +26,9 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
 </p>
 
+
+### Technologies
+
 <p align="left">
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a> &nbsp; &nbsp;
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a> &nbsp; &nbsp;
@@ -33,14 +38,23 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 
 
-
 ## 📊 GitHub Stats
+
+### Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arasgungore&hide_border=true&show_icons=true&locale=en&layout=compact" alt="arasgungore" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true&locale=en" alt="arasgungore" />
-</p>
+
+### Top Languages
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arasgungore&hide_border=true&show_icons=true&locale=en&layout=compact" alt="arasgungore" />
+
+
+### Overall Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true&locale=en" alt="arasgungore" />
+
+
+### Streak Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arasgungore&hide_border=true)](https://git.io/streak-stats)
