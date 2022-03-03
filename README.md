@@ -14,7 +14,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 ## ⚙ Skills
 
-### Programming
+### 👨‍💻 Programming
 
 <p align="left">
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a> &nbsp; &nbsp;
