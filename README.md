@@ -27,7 +27,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 </p>
 
 
-### Technologies
+### 🛠 Technologies
 
 <p align="left">
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a> &nbsp; &nbsp;
