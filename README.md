@@ -59,6 +59,6 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 </p>
 
 
-### Streak Stats
+### 🔥 Streak Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arasgungore&hide_border=true)](https://git.io/streak-stats)
