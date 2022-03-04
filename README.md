@@ -50,13 +50,13 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 <table>
   <tr>
     <td valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true" alt ="Aras Güngöre's GitHub stats"/>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true" alt ="Aras Güngöre's GitHub stats" />
     </a> </td>
-    <td valign="top"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arasgungore&hide_border=true&langs_count=8&layout=compact" alt="Top Languages"/>
+    <td valign="top"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arasgungore&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" />
     </a> </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=arasgungore&hide_border=true&background=f6f8fa&stroke=f78b08&ring=f78b08&currStreakNum=f78b08&sideNums=f78b08&currStreakLabel=f78b08&sideLabels=f78b08&dates=f78b08&date_format=j%20M%5B%20Y%5D" alt ="Aras Güngöre's GitHub Readme Streak Stats"/>
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=arasgungore&hide_border=true&background=f6f8fa&sideNums=f78b08&currStreakLabel=f78b08&sideLabels=f78b08&dates=f78b08&date_format=j%20M%5B%20Y%5D" alt="Aras Güngöre's GitHub Readme Streak Stats" />
     </a> </td>
   </tr>
 </table>
