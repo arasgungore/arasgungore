@@ -49,10 +49,10 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 <table>
   <tr>
-    <td valign="top">
+    <td>
       <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true" alt ="Aras Güngöre's GitHub stats" />
     </a> </td>
-    <td valign="top"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arasgungore&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" />
+    <td> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arasgungore&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" />
     </a> </td>
   </tr>
   <tr style="background-color:#FFFFFF">
