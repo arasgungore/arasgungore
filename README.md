@@ -47,9 +47,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 ### 🔝 Top Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arasgungore&hide_border=true&show_icons=true&locale=en&layout=compact" alt="arasgungore" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arasgungore&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📊 Overall Stats
