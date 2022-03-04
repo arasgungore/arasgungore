@@ -47,17 +47,17 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 ### 📊 Overall Stats
 
-<table border=3>
+<table border=2>
   <tr>
-    <td border=3>
+    <td border=2>
       <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true" alt ="Aras Güngöre's GitHub stats" /> </a>
     </td>
-    <td border=3>
+    <td border=2>
       <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arasgungore&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>
-    <td border=3 colspan=2 align="center">
+    <td border=2 colspan=2 align="center">
       <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=arasgungore&hide_border=true&stroke=001427&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&date_format=j%20M%5B%20Y%5D" alt="Aras Güngöre's GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
