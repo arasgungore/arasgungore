@@ -54,9 +54,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 ### 📊 Overall Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true&locale=en" alt="arasgungore" />
-</p>
+[![Overall Stats](https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🔥 Streak Stats
