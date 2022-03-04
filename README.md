@@ -45,16 +45,18 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 [![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### 🔝 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arasgungore&hide_border=true&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### 📊 Overall Stats
 
-[![Overall Stats](https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### 🔥 Streak Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arasgungore&hide_border=true)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true" alt ="Aras Güngöre's GitHub stats"/>
+    </a> </td>
+    <td valign="top"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arasgungore&hide_border=true&langs_count=8&layout=compact" alt="Top Languages"/>
+    </a> </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=arasgungore&hide_border=true" alt ="Aras Güngöre's GitHub Readme Streak Stats"/>
+    </a> </td>
+  </tr>
+</table>
