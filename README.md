@@ -65,8 +65,8 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 
 
-## 📚 Other Repositories
+## 📚 Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=console-games)](https://github.com/arasgungore/console-games)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=console-games)](https://github.com/arasgungore/console-games)
 &nbsp; &nbsp;
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=integral-calculator)](https://github.com/arasgungore/integral-calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=screensaver-with-vga)](https://github.com/arasgungore/screensaver-with-vga)
