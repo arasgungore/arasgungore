@@ -50,7 +50,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true" alt ="Aras Güngöre's GitHub Stats" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true" alt="Aras Güngöre's GitHub Stats" /> </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arasgungore&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
@@ -67,6 +67,6 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 ## 📚 Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=console-games)](https://github.com/arasgungore/console-games)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=console-games)](https://github.com/arasgungore/console-games)
 &nbsp; &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=screensaver-with-vga)](https://github.com/arasgungore/screensaver-with-vga)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=screensaver-with-vga)](https://github.com/arasgungore/screensaver-with-vga)
