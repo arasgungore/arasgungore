@@ -74,7 +74,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
   </tr>
 </table>
 
-### 🟩 Contribution Graph
+### 🐍 Contribution Graph
 
 ![Snake](https://github.com/arasgungore/arasgungore/blob/output/github-snake.gif)
 
