@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore.gif" alt="Aras Gungore" width="200" height="50" />
+<img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore.gif" alt="Aras Gungore" />
 
 # Welcome to my GitHub page  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
 
