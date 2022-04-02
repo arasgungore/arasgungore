@@ -97,4 +97,4 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=coursera-NLP)](https://github.com/arasgungore/coursera-NLP)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=butterworth-filter)](https://github.com/arasgungore/butterworth-filter)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=frequency-response)](https://github.com/arasgungore/frequency-response)
