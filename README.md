@@ -26,18 +26,18 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 ### 👨‍💻 Programming
 
-  <figure>
+  <figure class="item">
     <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" />
-    <figcaption>C</figcaption>
+    <figcaption style="text-align:center;">C</figcaption>
   </figure>
   
-  <figure class="item" style="display:flex;flex-flow:column;">
+  <figure class="item">
     <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">C</figcaption>
   </figure>
   &nbsp; &nbsp;
   
-  <figure class="item" style="display:flex;flex-flow:column;">
+  <figure class="item">
     <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">C++</figcaption>
   </figure>
