@@ -26,7 +26,6 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 ### 👨‍💻 Programming
 
-
   <figure class="item" style="display:flex;flex-flow:column;">
     <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">C</figcaption>
@@ -69,18 +68,30 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
   </figure>
 
 
-
 ### 🛠 Technologies
 
-<p align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
+  <figure class="item" style="display:flex;flex-flow:column;">
+    <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
+    <figcaption style="text-align:center;">Git</figcaption>
+  </figure>
   &nbsp; &nbsp;
-  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
+  
+  <figure class="item" style="display:flex;flex-flow:column;">
+    <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
+    <figcaption style="text-align:center;">Arduino</figcaption>
+  </figure>
   &nbsp; &nbsp;
-  <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/simulink.svg" alt="simulink" width="40" height="40" /> </a>
+  
+  <figure class="item" style="display:flex;flex-flow:column;">
+    <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/simulink.svg" alt="simulink" width="40" height="40" /> </a>
+    <figcaption style="text-align:center;">Simulink</figcaption>
+  </figure>
   &nbsp; &nbsp;
-  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ltspice.svg" alt="ltspice" width="40" height="40" /> </a>
-</p>
+  
+  <figure class="item" style="display:flex;flex-flow:column;">
+    <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ltspice.svg" alt="ltspice" width="40" height="40" /> </a>
+    <figcaption style="text-align:center;">LTspice</figcaption>
+  </figure>
 
 
 
