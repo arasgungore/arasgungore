@@ -27,7 +27,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 ### 👨‍💻 Programming
 
   <figure class="item">
-    <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40">
     <figcaption style="text-align:center;">C</figcaption>
   </figure>
   
