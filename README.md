@@ -1,21 +1,3 @@
-<style>
-
-figure {
-  display: flex;
-  flex-flow: column;
-}
-
-figcaption {
-  text-align: center;
-}
-
-.item {
-  align: left;
-}
-
-</style>
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore.gif" alt="Aras Gungore" width="433" height"74" />
 </p>
@@ -47,7 +29,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 <div align="left">
   <figure class="item">
     <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
-    <figcaption>C</figcaption>
+    <figcaption style="text-align:center;">C</figcaption>
   </figure>
   &nbsp; &nbsp;
   
