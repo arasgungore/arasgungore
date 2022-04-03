@@ -26,7 +26,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 ### 👨‍💻 Programming
 
-<p>
+
   <figure class="item" style="display:flex;flex-flow:column;">
     <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">C</figcaption>
@@ -67,7 +67,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
     <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">R</figcaption>
   </figure>
-</p>
+
 
 
 ### 🛠 Technologies
