@@ -1,3 +1,18 @@
+<style>
+
+figure {
+    display: flex;
+    flex-flow: column;
+}
+
+figcaption {
+    text-align: center;
+}
+
+</style>
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore.gif" alt="Aras Gungore" width="433" height"74" />
 </p>
@@ -29,43 +44,43 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 <div align="left">
   <figure class="item">
     <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
-    <figcaption align="center">C</figcaption>
+    <figcaption>C</figcaption>
   </figure>
   &nbsp; &nbsp;
   
   <figure class="item">
     <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
-    <figcaption align="center">C++</figcaption>
+    <figcaption>C++</figcaption>
   </figure>
   &nbsp; &nbsp;
   
   <figure class="item">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-    <figcaption align="center">Java</figcaption>
+    <figcaption>Java</figcaption>
   </figure>
   &nbsp; &nbsp;
   
   <figure class="item">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-    <figcaption align="center">Python</figcaption>
+    <figcaption>Python</figcaption>
   </figure>
   &nbsp; &nbsp;
   
   <figure class="item">
     <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/matlab.svg" alt="matlab" width="40" height="40" /> </a>
-    <figcaption align="center">MATLAB</figcaption>
+    <figcaption>MATLAB</figcaption>
   </figure>
   &nbsp; &nbsp;
   
   <figure class="item">
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-    <figcaption align="center">MySQL</figcaption>
+    <figcaption>MySQL</figcaption>
   </figure>
   &nbsp; &nbsp;
   
   <figure class="item">
     <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
-    <figcaption align="center">R</figcaption>
+    <figcaption>R</figcaption>
   </figure>
 </div>
 
