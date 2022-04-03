@@ -25,11 +25,6 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 ## ⚙ Skills
 
 ### 👨‍💻 Programming
-
-  <figure class="item">
-    <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40">
-    <figcaption style="text-align:center;">C</figcaption>
-  </figure>
   
   <figure class="item">
     <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
@@ -43,31 +38,31 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
   </figure>
   &nbsp; &nbsp;
   
-  <figure class="item" style="display:flex;flex-flow:column;">
+  <figure class="item">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">Java</figcaption>
   </figure>
   &nbsp; &nbsp;
   
-  <figure class="item" style="display:flex;flex-flow:column;">
+  <figure class="item">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">Python</figcaption>
   </figure>
   &nbsp; &nbsp;
   
-  <figure class="item" style="display:flex;flex-flow:column;">
+  <figure class="item">
     <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/matlab.svg" alt="matlab" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">MATLAB</figcaption>
   </figure>
   &nbsp; &nbsp;
   
-  <figure class="item" style="display:flex;flex-flow:column;">
+  <figure class="item">
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">MySQL</figcaption>
   </figure>
   &nbsp; &nbsp;
   
-  <figure class="item" style="display:flex;flex-flow:column;">
+  <figure class="item">
     <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">R</figcaption>
   </figure>
@@ -75,25 +70,25 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 ### 🛠 Technologies
 
-  <figure class="item" style="display:flex;flex-flow:column;">
+  <figure class="item">
     <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">Git</figcaption>
   </figure>
   &nbsp; &nbsp;
   
-  <figure class="item" style="display:flex;flex-flow:column;">
+  <figure class="item">
     <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">Arduino</figcaption>
   </figure>
   &nbsp; &nbsp;
   
-  <figure class="item" style="display:flex;flex-flow:column;">
+  <figure class="item">
     <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/simulink.svg" alt="simulink" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">Simulink</figcaption>
   </figure>
   &nbsp; &nbsp;
   
-  <figure class="item" style="display:flex;flex-flow:column;">
+  <figure class="item">
     <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ltspice.svg" alt="ltspice" width="40" height="40" /> </a>
     <figcaption style="text-align:center;">LTspice</figcaption>
   </figure>
