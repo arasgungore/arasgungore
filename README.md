@@ -14,13 +14,13 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 ## 📇 Contact Info
 
-[![Gmail](https://img.shields.io/badge/-arasgungore09-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:arasgungore09@gmail.com)](mailto:arasgungore09@gmail.com)
+[![Gmail](https://img.shields.io/badge/arasgungore09-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:arasgungore09@gmail.com)](mailto:arasgungore09@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/-arasgungore-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arasgungore)](https://www.linkedin.com/in/arasgungore)
+[![LinkedIn](https://img.shields.io/badge/arasgungore-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arasgungore)](https://www.linkedin.com/in/arasgungore)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/-arasgungore-100000?style=flat&logo=Github&logoColor=white&link=https://github.com/arasgungore)](https://github.com/arasgungore)
+[![GitHub](https://img.shields.io/badge/arasgungore-100000?style=flat&logo=Github&logoColor=white&link=https://github.com/arasgungore)](https://github.com/arasgungore)
 &nbsp;
-[![HackerRank](https://img.shields.io/badge/-arasgungore-00EA64?style=flat&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/arasgungore)](https://www.hackerrank.com/arasgungore)
+[![HackerRank](https://img.shields.io/badge/arasgungore-00EA64?style=flat&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/arasgungore)](https://www.hackerrank.com/arasgungore)
 &nbsp;
 [![Portfolio](https://img.shields.io/website-up-down-green-red/http/arasgungore.github.io.svg)](https://arasgungore.github.io)
 
