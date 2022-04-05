@@ -22,7 +22,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 &nbsp;
 [![HackerRank](https://img.shields.io/badge/arasgungore-00EA64?style=flat&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/arasgungore)](https://www.hackerrank.com/arasgungore)
 &nbsp;
-[![Portfolio](https://img.shields.io/website-up-blue/http/arasgungore.github.io.svg)](https://arasgungore.github.io)
+[![Portfolio](https://img.shields.io/website-up-down-blue-red/http/arasgungore.github.io.svg)](https://arasgungore.github.io)
 
 
 
