@@ -23,6 +23,8 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
   &nbsp;
   <a href="https://www.hackerrank.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
   &nbsp;
+  <a href="https://leetcode.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+  &nbsp;
   <a href="https://arasgungore.github.io" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
 </p>
 
