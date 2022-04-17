@@ -14,15 +14,17 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 ## 📇 Contact Info
 
-[![Gmail](https://img.shields.io/badge/arasgungore09-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:arasgungore09@gmail.com)](mailto:arasgungore09@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/arasgungore-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arasgungore)](https://www.linkedin.com/in/arasgungore)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/arasgungore-100000?style=flat&logo=Github&logoColor=white&link=https://github.com/arasgungore)](https://github.com/arasgungore)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/arasgungore-00EA64?style=flat&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/arasgungore)](https://www.hackerrank.com/arasgungore)
-&nbsp;
-[![Portfolio](https://img.shields.io/website-here-up-08203A-yellowgreen/http/arasgungore.github.io.svg)](https://arasgungore.github.io)
+<p align="left">
+  <a href="mailto:arasgungore09@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.hackerrank.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://arasgungore.github.io" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+</p>
 
 
 
