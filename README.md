@@ -112,7 +112,10 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=VGA-based-screensaver)](https://github.com/arasgungore/VGA-based-screensaver)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=autocorrect)](https://github.com/arasgungore/autocorrect)
+
+<!--
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=integral-calculator)](https://github.com/arasgungore/integral-calculator)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=frequency-response)](https://github.com/arasgungore/frequency-response)
+-->
