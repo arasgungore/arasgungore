@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Engineering major and Computer Engineering minor student at Boğaziçi University. Check out [my portfolio](https://arasgungore.github.io) and [my GitHub page](https://github.com/arasgungore?tab=repositories) to learn more about me and my projects.
+Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Engineering major and Computer Engineering minor student at Boğaziçi University. Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.google.com/file/d/1TGwMpZl6FDeQk1w_-EetbspCuzu16kCF/view?usp=sharing), and [resume](https://resume.github.io/?arasgungore) to learn more about me and my projects.
 
 
 
