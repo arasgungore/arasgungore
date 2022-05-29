@@ -1,7 +1,8 @@
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore.gif" alt="Aras Gungore" width="433" height"74" />
 </p>
-
+-->
 
 # Welcome to my GitHub page  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
 
@@ -67,17 +68,6 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 ## 📊 GitHub Stats
 
-<!--
-## 📍 GitHub Stats
-
-### 🏆 Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-### 📊 Overall Stats
--->
-
 <table>
   <tr>
     <td>
@@ -94,12 +84,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
   </tr>
 </table>
 
-
-<!--
-### 🐍 Contribution Graph
-
-![Snake Game](https://github.com/arasgungore/arasgungore/blob/output/github-snake.gif)
--->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -112,3 +97,11 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=VGA-based-screensaver)](https://github.com/arasgungore/VGA-based-screensaver)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=autocorrect)](https://github.com/arasgungore/autocorrect)
+
+
+
+<!--
+## 🐍 Contribution Graph
+
+![Snake Game](https://github.com/arasgungore/arasgungore/blob/output/github-snake.gif)
+-->
