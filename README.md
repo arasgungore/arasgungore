@@ -84,7 +84,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
   </tr>
 </table>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
