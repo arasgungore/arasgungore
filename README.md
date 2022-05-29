@@ -1,10 +1,12 @@
 <!--
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore.gif" alt="Aras Gungore" width="433" height"74" />
-</p>
+</div>
 -->
 
+
 # Welcome to my GitHub page  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
+
 
 
 ## 👤 About Me
@@ -13,9 +15,10 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 
 
+
 ## 📇 Social & Contact Info
 
-<p align="left">
+<div align="left">
   <a href="mailto:arasgungore09@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
   <a href="https://arasgungore.github.io" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/Website-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
@@ -27,7 +30,8 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
   <a href="https://www.hackerrank.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
   &nbsp;
   <a href="https://leetcode.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
-</p>
+</div>
+
 
 
 
@@ -35,7 +39,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 
 ### 👨‍💻 Programming
 
-<p align="left">
+<div align="left">
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
@@ -49,12 +53,13 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
-</p>
+</div>
+
 
 
 ### 🛠 Technologies
 
-<p align="left">
+<div align="left">
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
@@ -62,7 +67,8 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
   <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/simulink.svg" alt="simulink" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ltspice.svg" alt="ltspice" width="40" height="40" /> </a>
-</p>
+</div>
+
 
 
 
@@ -84,9 +90,15 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
   </tr>
 </table>
 
-<p align="center">
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer"> <img src="https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-C,-?"> </a>
+</div>
+
+<!--
 [![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+-->
+
 
 
 
@@ -99,6 +111,7 @@ Hi there, my name is Aras Güngöre. I'm a junior Electrical-Electronics Enginee
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=VGA-based-screensaver)](https://github.com/arasgungore/VGA-based-screensaver)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=autocorrect)](https://github.com/arasgungore/autocorrect)
+
 
 
 
