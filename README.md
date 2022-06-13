@@ -13,6 +13,10 @@
 
 Hi there, my name is Aras Güngöre. I am a junior Electrical and Electronics Engineering major and Computer Engineering minor student at Boğaziçi University. My areas of interest are signal processing and communications, control and automation, machine learning, and software development. Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.google.com/file/d/1TGwMpZl6FDeQk1w_-EetbspCuzu16kCF/view?usp=sharing), and [GitHub résumé](https://resume.github.io/?arasgungore) to learn more about me and my projects.
 
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=arasgungore-CV)](https://github.com/arasgungore/arasgungore-CV)
+&nbsp; &nbsp;
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=arasgungore.github.io)](https://github.com/arasgungore/arasgungore.github.io)
+
 
 
 
