@@ -68,7 +68,7 @@ Hi there, my name is Aras Güngöre. I am a senior Electrical and Electronics En
   &nbsp; &nbsp;
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ros.svg" alt="ros" width="40" height="40" /> </a>
+  <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ros.svg" alt="ros" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/simulink.svg" alt="simulink" width="40" height="40" /> </a>
   &nbsp; &nbsp;
