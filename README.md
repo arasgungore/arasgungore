@@ -37,7 +37,7 @@ Hi there, my name is Aras Güngöre. I am a senior Electrical and Electronics En
 
 
 
-<!--
+
 ## ⚙ Skills
 
 
@@ -74,7 +74,7 @@ Hi there, my name is Aras Güngöre. I am a senior Electrical and Electronics En
   &nbsp; &nbsp;
   <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ltspice.svg" alt="ltspice" width="40" height="40" /> </a>
 </div>
--->
+
 
 
 
@@ -110,7 +110,6 @@ Hi there, my name is Aras Güngöre. I am a senior Electrical and Electronics En
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=VGA-based-screensaver)](https://github.com/arasgungore/VGA-based-screensaver)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=autocorrect)](https://github.com/arasgungore/autocorrect)
-
 
 
 
