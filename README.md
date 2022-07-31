@@ -21,11 +21,6 @@ Hi there, my name is Aras Güngöre. I am a senior Electrical and Electronics En
 
 ## 📇 Social & Contact
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"> </script>
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="arasgungore" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/arasgungore?trk=profile-badge">Aras Güngöre</a>
-</div>
-
 <div align="left">
   <a href="mailto:arasgungore09@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
@@ -100,6 +95,8 @@ Hi there, my name is Aras Güngöre. I am a senior Electrical and Electronics En
     </td>
   </tr>
 </table>
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arasgungore&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
