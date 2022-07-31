@@ -96,7 +96,29 @@ Hi there, my name is Aras Güngöre. I am a senior Electrical and Electronics En
   </tr>
 </table>
 
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arasgungore&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<table>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arasgungore&theme=default" alt="Contributions" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arasgungore&theme=default" alt="Top Languages by Repo" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arasgungore&theme=default" alt="Top Languages by Commit" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arasgungore&theme=default" alt="Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arasgungore&theme=default&utcOffset=8" alt="Commits" /> </a>
+    </td>
+  </tr>
+</table>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
