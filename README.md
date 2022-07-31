@@ -21,6 +21,11 @@ Hi there, my name is Aras Güngöre. I am a senior Electrical and Electronics En
 
 ## 📇 Social & Contact
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"> </script>
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="arasgungore" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/arasgungore?trk=profile-badge">Aras Güngöre</a>
+</div>
+
 <div align="left">
   <a href="mailto:arasgungore09@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
