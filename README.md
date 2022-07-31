@@ -96,6 +96,7 @@ Hi there, my name is Aras Güngöre. I am a senior Electrical and Electronics En
   </tr>
 </table>
 
+<!--
 <table>
   <tr>
     <td colspan=2 align="center">
@@ -119,6 +120,7 @@ Hi there, my name is Aras Güngöre. I am a senior Electrical and Electronics En
     </td>
   </tr>
 </table>
+-->
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
