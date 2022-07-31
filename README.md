@@ -100,7 +100,7 @@ Hi there, my name is Aras Güngöre. I am a senior Electrical and Electronics En
 <table>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arasgungore&theme=default" alt="Contributions in the Last Year" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arasgungore&theme=default" alt="Aras Güngöre's Profile Details" /> </a>
     </td>
   </tr>
   <tr>
