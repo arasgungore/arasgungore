@@ -24,7 +24,7 @@ Hi there, my name is Aras Güngöre. I am a senior Electrical and Electronics En
 <div align="left">
   <a href="mailto:arasgungore09@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://arasgungore.github.io" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/Website-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  <a href="https://arasgungore.github.io" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
