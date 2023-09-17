@@ -155,7 +155,7 @@ Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.goog
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=BERT-base-Turkish-QA)](https://github.com/arasgungore/BERT-base-Turkish-QA)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=VGA-based-screensaver)](https://github.com/arasgungore/VGA-based-screensaver)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=LittleLemon)](https://github.com/arasgungore/LittleLemon)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=autocorrect)](https://github.com/arasgungore/autocorrect)
 
