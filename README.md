@@ -148,7 +148,7 @@ Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.goog
 
 
 
-
+<!--
 ## 📚 Repositories
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=console-games)](https://github.com/arasgungore/console-games)
@@ -158,7 +158,7 @@ Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.goog
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=LittleLemon)](https://github.com/arasgungore/LittleLemon)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=autocorrect)](https://github.com/arasgungore/autocorrect)
-
+-->
 
 
 <!--
