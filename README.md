@@ -25,7 +25,7 @@ Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.goog
 
 
 
-## 📇 Social & Contact
+## 📨 Social & Contact
 
 <div align="left">
   <a href="mailto:arasgungore09@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
@@ -64,9 +64,21 @@ Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.goog
   &nbsp; &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
   &nbsp; &nbsp;
+  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
+  &nbsp; &nbsp;
   <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/matlab.svg" alt="matlab" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
+</div>
+
+
+
+### 🛠 Technologies
+
+<div align="left">
+  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  &nbsp; &nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   &nbsp; &nbsp;
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
   &nbsp; &nbsp;
@@ -74,12 +86,18 @@ Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.goog
   &nbsp; &nbsp;
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
   &nbsp; &nbsp;
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  &nbsp; &nbsp;
+  <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  &nbsp; &nbsp;
   <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ros.svg" alt="ros" width="40" height="40" /> </a>
 </div>
 
 
 
-### 🛠 Libraries
+### 📚 Libraries
 
 <div align="left">
   <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>
@@ -153,7 +171,7 @@ Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.goog
 
 
 <!--
-## 📚 Repositories
+## 📦 Repositories
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=console-games)](https://github.com/arasgungore/console-games)
 &nbsp; &nbsp;
