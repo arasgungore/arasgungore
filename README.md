@@ -32,16 +32,20 @@ Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.goog
   &nbsp;
   <a href="https://www.linkedin.com/in/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
+  <!--
+  <a href="https://github.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  &nbsp;
+  -->
+  <a href="https://www.researchgate.net/profile/Aras-Guengoere" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's ResearchGate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /> </a>
+  &nbsp;
   <a href="https://www.instagram.com/arasdasdas" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
   &nbsp;
   <a href="https://www.tiktok.com/@arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> </a>
   &nbsp;
   <a href="https://www.youtube.com/@arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
   &nbsp;
-  <!--
-  <a href="https://github.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  <a href="https://www.reddit.com/user/DasDasAras" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /> </a>
   &nbsp;
-  -->
   <a href="https://www.hackerrank.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
   &nbsp;
   <a href="https://leetcode.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
