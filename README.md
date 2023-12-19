@@ -80,6 +80,8 @@ Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.goog
 ### 🛠 Technologies
 
 <div align="left">
+  <a href="https://www.qt.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
