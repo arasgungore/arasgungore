@@ -26,7 +26,7 @@ Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.goog
 ## 📨 Social & Contact
 
 <div align="left">
-  <a href="mailto:arasgungore09@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  <a href="mailto:arasgungore09@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Email Address" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
   <a href="https://arasgungore.github.io" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
   &nbsp;
