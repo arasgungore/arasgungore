@@ -32,9 +32,11 @@ Check out my [portfolio](https://arasgungore.github.io), [CV](https://drive.goog
   &nbsp;
   <a href="https://www.linkedin.com/in/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
+  <a href="https://www.youtube.com/@arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
+  &nbsp;
   <a href="https://www.researchgate.net/profile/Aras-Guengoere" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's ResearchGate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://www.youtube.com/@arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
+  <a href="https://stackoverflow.com/users/23314477/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> </a>
   &nbsp;
   <a href="https://www.hackerrank.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
   &nbsp;
