@@ -10,7 +10,7 @@
 
 Hi there, my name is Aras Güngöre.
 
-I’m a graduate of Boğaziçi University with a bachelor’s degree in Electrical and Electronics Engineering and a minor degree in Computer Engineering. My academic journey seamlessly integrates these fields, providing me with a strong foundation in signal processing, machine learning, computer vision, embedded systems, and software development – all areas that align with my personal interests. This combination of skills allows me to innovate at the crossroads of hardware and software, bridging intricate technological gaps.
+I’m a graduate of Boğaziçi University with a bachelor’s degree in Electrical and Electronics Engineering and a minor degree in Computer Science. My academic journey seamlessly integrates these fields, providing me with a strong foundation in signal processing, machine learning, computer vision, embedded systems, and software development – all areas that align with my personal interests. This combination of skills allows me to innovate at the crossroads of hardware and software, bridging intricate technological gaps.
 
 I’ve gained experience across various sectors, including IT, R&D, telecommunications, and defense industries. In these roles, I’ve used my technical expertise and collaboration skills to contribute to significant projects in intelligent systems, robotics, generative AI, image processing, and digital communications. These experiences demonstrate my ability to navigate complex challenges and drive interdisciplinary projects, both in academia and industry. With a passion for technology and a versatile skill set that spans multiple domains, I’m well-positioned to make lasting contributions through innovation and teamwork.
 
